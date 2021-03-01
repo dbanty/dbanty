@@ -1,6 +1,6 @@
 ### What I Do
 
-I'm the Lead Software Engineer at [Triax Technologies][triax] which basically means I steer the architecture and platforms of our software stacks. I spend most of my time working in Python (usually [FastAPI]) on the back end building serverless APIs for consumption by our IoT devices and UIs. I also maintain the open source projects that spawn from that work such as [openapi-python-client], [Dobby], [flex-config].
+I'm the Director of Software Engineering at [Triax Technologies][triax] which basically means I steer the architecture and platforms of our software stacks. I spend most of my time working in Python (usually [FastAPI]) on the back end building serverless APIs for consumption by our IoT devices and UIs. I also maintain the open source projects that spawn from that work such as [openapi-python-client], [Dobby], [flex-config].
 
 In my free time, I also blog about various topics that interest me on [my personal website][website]. Right now that's mostly about trying to find and/or create a web API framework as nice as [FastAPI] using Rust.
 
