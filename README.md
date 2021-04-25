@@ -23,7 +23,7 @@ In my free time, I also blog about various topics that interest me on [my person
 
 🕊 @TBDylan on Twitter (DMs open)
 
-♂ They/Them pronouns if you're talking about me, or just "Dylan" is fine.
+☿ They/Them pronouns if you're talking about me, or just "Dylan" is fine.
 
 [triax]: https://github.com/triaxtec
 [openapi-python-client]: https://github.com/triaxtec/openapi-python-client
