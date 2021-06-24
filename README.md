@@ -1,6 +1,6 @@
 ### What I Do
 
-I spend most of my time in backend web development with [FastAPI] (Python). I also maintain a couple open source projectssuch as [openapi-python-client] and [Dobby].
+I spend most of my time in backend web development with [FastAPI] (Python). I also maintain a couple open source projects such as [openapi-python-client] and [Dobby].
 
 In my free time, I also blog about various topics that interest me on [my personal website][website]. Right now that's mostly about trying to find and/or create a web API framework as nice as [FastAPI] using Rust.
 
