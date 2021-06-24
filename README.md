@@ -1,12 +1,14 @@
 ### What I Do
 
-I'm the Director of Software Engineering at [Triax Technologies][triax] which basically means I steer the architecture and platforms of our software stacks. I spend most of my time working in Python (usually [FastAPI]) on the back end building serverless APIs for consumption by our IoT devices and UIs. I also maintain the open source projects that spawn from that work such as [openapi-python-client], [Dobby], [flex-config].
+I spend most of my time in backend web development with [FastAPI] (Python). I also maintain a couple open source projectssuch as [openapi-python-client] and [Dobby].
 
 In my free time, I also blog about various topics that interest me on [my personal website][website]. Right now that's mostly about trying to find and/or create a web API framework as nice as [FastAPI] using Rust.
 
+My main languages are Python 🐍 and Rust 🦀 but I also dabble in Kotlin and TypeScript.
+
 ### What I Like
 
-🥰 I'm big on improving developer productivity, which is why I created [openapi-python-client] and [flex-config] to speed up our internal work. That's also why I introduced CI/CD, static analysis, automatic formatting, and Kanban workflows to my team.
+🥰 I'm big on improving developer productivity, which is the theme of my open source work. That's also why I push for CI/CD, static analysis, and automatic formatting in my work.
 
 🧐 Quality is core to everything I do. I want little more than for all the software in the world to be better, faster, and less frustrating to users. That's why I moved our team to use Python Type Annotations (with mypy), TypeScript (instead of JavaScript), and now Rust wherever feasible. Quality also includes things like:
 - Security 🔒
@@ -25,9 +27,7 @@ In my free time, I also blog about various topics that interest me on [my person
 
 ☿ They/Them pronouns if you're talking about me, or just "Dylan" is fine.
 
-[triax]: https://github.com/triaxtec
 [openapi-python-client]: https://github.com/triaxtec/openapi-python-client
 [dobby]: https://github.com/triaxtec/dobby
-[flex-config]: https://github.com/triaxtec/flex-config
 [FastAPI]: https://fastapi.tiangolo.com
 [website]: https://dylananthony.com
