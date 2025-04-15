@@ -23,7 +23,7 @@ My main languages are [Rust] 🦀 and Python 🐍 but I dabble in just about eve
 ### How to Contact Me
 💌 contact at dylananthony.com (it's a Proton Mail address, so it's safe!)
 
-🐘 [@dbanty@tech.lgbt](https://tech.lgbt/@dbanty)
+🦋 [@dbanty.bsky.social](https://bsky.app/profile/dbanty.bsky.social)
 
 ☿ They/Them pronouns if you're talking about me, or just "Dylan" is fine.
 
